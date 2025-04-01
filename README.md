@@ -1,2 +1,0 @@
-# gopractices
-golang practices
