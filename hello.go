@@ -18,6 +18,7 @@ func main() {
 	// Print the shuffled slice
 	fmt.Println("Shuffled slice:", shuffled)
 	generateError()
+	stdioe()
 }
 
 func shuffle(slice []int) []int {
