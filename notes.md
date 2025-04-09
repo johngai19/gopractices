@@ -1,5 +1,9 @@
 # Golang notes
 
+## Features
+
+- GO doesn't use inheritance
+
 ## go cli commands
 
 - `go get` is used to get a package from a URL with specified version, download and compile it. The package will be added in go.mod file.
