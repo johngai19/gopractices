@@ -21,5 +21,5 @@ build: fmt lint test vet
 .PHONY: build
 
 run: build
-	./hello
+	./hello Teststring
 .PHONY: run
